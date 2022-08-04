@@ -1,0 +1,18 @@
+[
+ {
+  "titulo": "Repasar JS",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Armar aplicacion de tareas",
+  "estado": "en proceso"
+ },
+ {
+  "titulo": "Break",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Estudiar",
+  "estado": "pendiente"
+ }
+]
